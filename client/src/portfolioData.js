@@ -1,7 +1,7 @@
-import photo1 from '../dist/assets/1.jpeg';
-import photo2 from '../dist/assets/2.jpeg';
-import photo3 from '../dist/assets/3.jpeg';
-import photo4 from '../dist/assets/4.jpeg';
+import photo1 from './assets/1.jpeg';
+import photo2 from './assets/2.jpeg';
+import photo3 from './assets/3.jpeg';
+import photo4 from './assets/4.jpeg';
 export const profile = {
   name: 'Ahlam Cheryala',
   title: 'Wedding Planner & Venue Manager',
