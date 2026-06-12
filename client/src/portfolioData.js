@@ -59,13 +59,13 @@ export const videoWork = [
   {
     title: 'Wedding Highlight',
     category: 'Video',
-    videoUrl: '../public/videos/1.mp4',
+    videoUrl: '/videos/1.mp4',
     description: 'Add a short wedding or venue event highlight video.'
   },
   {
     title: 'Venue Walkthrough',
     category: 'Video',
-    videoUrl: '../public/videos/2.mp4',
+    videoUrl: '/videos/2.mp4',
     description: 'Add a walkthrough, setup transformation, or event atmosphere video.'
   }
 ];
